@@ -26,7 +26,7 @@ I am **AmirAkbari**. I like solving problems, traveling, playing music.
 </br>
 
 ### 💻 Software and Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,webstorm,ps,git,github,gitlab,nginx,docker,kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,git,github,gitlab,docker)](https://skillicons.dev)
 
 ## 📈 GitHub Stats 
 
