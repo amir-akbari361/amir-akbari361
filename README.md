@@ -32,6 +32,6 @@ I am **AmirAkbari**. I like solving problems, traveling, playing music.
 
 [![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=amir-akbari361)](https://github.com/amir-akbari361)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-akbari361&layout=compact)](https://github.com/amir-akbari361)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-akbari361&layout=compact&hide=css,html)](https://github.com/amir-akbari361)
 
 
