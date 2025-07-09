@@ -28,9 +28,6 @@ I am **AmirAkbari**. I like solving problems, traveling, playing music.
 ### 💻 Software and Tools:
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,webstorm,ps,git,github,gitlab,nginx,docker,kafka)](https://skillicons.dev)
 
-##  Other programming Skills
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,svelet,csharp,astro,arduino)](https://skillicons.dev)
-
 ## 📈 GitHub Stats 
 
 [![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=amir-akbari361)](https://github.com/amir-akbari361)
