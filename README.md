@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am **AmirAkbari**. I like solving problems, traveling, playing music.
+I am **AmirAkbari**. I like solving problems, traveling and playing music.
 🌍 Traveling and exploring new places inspire me.
 
 ## 🤝 Connect with me:
