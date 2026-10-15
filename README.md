@@ -4,6 +4,8 @@ I am **Amir Akbari**, a Computer Science student and .NET developer working with
 I like solving problems, traveling and playing music.
 🌍 Traveling and exploring new places inspire me.
 
+🔭 Currently building workflow-driven backend systems with .NET, and going deeper into Clean Architecture and DDD.
+
 ## 🤝 Connect with me:
 <div>
   <a href="https://www.linkedin.com/in/amir-akbari361/" target="_blank">
@@ -29,6 +31,6 @@ I like solving problems, traveling and playing music.
 ### 💻 Software and Tools:
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,postman,git,github,gitlab,docker)](https://skillicons.dev)
 
-## 📈 GitHub Stats
+## 📊 Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-akbari361&layout=compact&hide=css,html)](https://github.com/amir-akbari361)
