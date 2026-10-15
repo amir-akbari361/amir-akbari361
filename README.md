@@ -21,32 +21,14 @@ I like solving problems, traveling and playing music.
 <br/>
 
 ## 💼 Technical Skills
-[
-
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,java,python,spring,html,css,mysql,postgres)
-
-](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,java,python,spring,html,css,mysql,postgres)](https://skillicons.dev)
 
 **Also:** Blazor · MudBlazor · Entity Framework Core · FluentValidation
 <br/>
 
 ### 💻 Software and Tools:
-[
-
-![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,postman,git,github,gitlab,docker)
-
-](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,postman,git,github,gitlab,docker)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 
-[
-
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir-akbari361)
-
-](https://github.com/amir-akbari361)
-
-[
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-akbari361&layout=compact&hide=css,html)
-
-](https://github.com/amir-akbari361)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-akbari361&layout=compact&hide=css,html)](https://github.com/amir-akbari361)
